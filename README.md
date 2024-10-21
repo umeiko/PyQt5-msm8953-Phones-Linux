@@ -1,6 +1,7 @@
 # PyQt5-msm8953-Phones-Linux
 为msm8953（主要是小米和红米手机的高通625机型）移植的PyQt5开发环境。触屏工作正常，显示分辨率一般为`1920*1080`
 
+![微信图片_20241021161124](https://github.com/user-attachments/assets/551ac425-92d7-41a5-be9d-e7360f345eba)
 
 刷机完毕后，可以通过尾插usb连接电脑后，通过Putty连接到手机，然后运行以下命令通过WIFI联网：
 
