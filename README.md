@@ -43,3 +43,4 @@ EndSection
 
 保存后重启代码即可。
 如果需要开机自动运行你的PyQt5代码，则编写`systemd`服务即可。
+- 直接运行Python代码无法在屏幕中显示画面，需要通过`sudo startx`启动X服务后运行Python代码，如示例中展示的`run.sh`的运行方法所示。
